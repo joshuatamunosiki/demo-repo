@@ -1,7 +1,7 @@
 # ANALYSIS OF PROSPER DATA
-##CONTENT
--Introduction
--Data Wrangling
--Exploratory Data Analysis
--Explanatory Data Analysis
--Conclusion
+##CONTENT<br>
+- Introduction
+- Data Wrangling
+- Exploratory Data Analysis
+- Explanatory Data Analysis
+- Conclusion
