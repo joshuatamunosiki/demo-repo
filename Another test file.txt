@@ -1,0 +1,9 @@
+class ruler:
+
+public int calcultae(){
+
+system.out.println("siki")
+}
+
+public static void main(string args){
+}
